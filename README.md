@@ -34,5 +34,10 @@ The analysis helped identify critical areas that need attention for safety impro
 File Limitations
 Due to GitHub’s file upload limit of 25MB, I am unable to upload the dataset directly to this repository. The dataset used in this analysis exceeds the 25MB limit. However, you can download the dataset from the following external link (if applicable): https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?usp=sharing&ouid=116890999875311477003&rtpof=true&sd=true
 
+
+## Quick Look at the Project
+
+![image_alt](https://github.com/yar123yar/Employee-Entry-Form/blob/main/Images/form.png?raw=true)
+
 ## Technologies Used
 Excel: For creating the interactive dashboard.
