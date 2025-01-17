@@ -37,11 +37,17 @@ Due to GitHub’s file upload limit of 25MB, I am unable to upload the dataset d
 
 ## Quick Look at the Project
 
+KPI 
 ![image_alt](https://github.com/yar123yar/Road-Accident/blob/main/Images/KPI.png?raw=true)
 
+Monthly Trend
 ![image_alt](https://github.com/yar123yar/Road-Accident/blob/main/Images/monthlyTrend.png?raw=true)
 
+Accident by road type
 ![image_alt](https://github.com/yar123yar/Road-Accident/blob/main/Images/road_type.png?raw=true)
+
+Result: Dashboard
+![image_alt](https://github.com/yar123yar/Road-Accident/blob/main/Images/dashboard.png?raw=true)
 
 ## Technologies Used
 Excel: For creating the interactive dashboard.
